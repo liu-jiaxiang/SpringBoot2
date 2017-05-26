@@ -1,0 +1,62 @@
+{
+  "groups": [
+    {
+      "name": "my",
+      "type": "com.ljx.model.User",
+      "sourceType": "com.ljx.model.User"
+    },
+    {
+      "name": "my",
+      "type": "com.ljx.model.MyInformation",
+      "sourceType": "com.ljx.model.MyInformation"
+    },
+    {
+      "name": "storage",
+      "type": "com.ljx.storage.StorageProperties",
+      "sourceType": "com.ljx.storage.StorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "my.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.ljx.model.User"
+    },
+    {
+      "name": "my.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.ljx.model.MyInformation"
+    },
+    {
+      "name": "my.greeting",
+      "type": "java.lang.String",
+      "sourceType": "com.ljx.model.MyInformation"
+    },
+    {
+      "name": "my.id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.ljx.model.User"
+    },
+    {
+      "name": "my.id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.ljx.model.MyInformation"
+    },
+    {
+      "name": "my.name",
+      "type": "java.lang.String",
+      "sourceType": "com.ljx.model.User"
+    },
+    {
+      "name": "my.name",
+      "type": "java.lang.String",
+      "sourceType": "com.ljx.model.MyInformation"
+    },
+    {
+      "name": "storage.location",
+      "type": "java.lang.String",
+      "sourceType": "com.ljx.storage.StorageProperties"
+    }
+  ],
+  "hints": []
+}
